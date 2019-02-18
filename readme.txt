@@ -9,3 +9,4 @@ creating a new branch @master 5th
 Createing new branch is quick @feature 5th
 
 no-ff @dev 5th
+fixed the bug@issue-101 6th
