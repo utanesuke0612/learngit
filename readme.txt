@@ -7,3 +7,5 @@ add more @3rd
 add more @4th
 creating a new branch @master 5th
 Createing new branch is quick @feature 5th
+
+no-ff @dev 5th
