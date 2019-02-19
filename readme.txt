@@ -9,3 +9,5 @@ creating a new branch @master 5th
 Createing new branch is quick @feature 5th
 
 no-ff @dev 5th
+
+check conflicted issue for muliti-player dev @win 6th
