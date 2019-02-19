@@ -2,4 +2,5 @@ itet
 
 test
 
+confilict multi@linux 1st
 conflict multi@wind 1st
